@@ -620,8 +620,18 @@ margin-top:50px;
     font-weight: 700;
 }
 
+.skills-container {
+	display: flex;
+	justify-content: center;
+	width: 100%;
+}
+
+.skills-list {
+
+}
+
 .skill {
-	width: 250px;
-	height: 250px;
+	width: 215px;
+	height: 215px;
 	background: transparent;
 }
