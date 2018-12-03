@@ -635,3 +635,12 @@ margin-top:50px;
 	height: 215px;
 	background: transparent;
 }
+
+.home {
+	color: rgba(255, 255, 255, 0.75);
+	font-size: 13px;
+	font-weight: 400;
+	margin-left: 40px;
+	letter-spacing: 3px;
+	text-transform: uppercase;
+}
