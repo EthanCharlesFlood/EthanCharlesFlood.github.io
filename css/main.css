@@ -626,14 +626,19 @@ margin-top:50px;
 	width: 100%;
 }
 
-.skills-list {
-
-}
-
 .skill {
 	width: 215px;
 	height: 215px;
 	background: transparent;
+}
+
+.ethans-picture {
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	top: 500px;
+	left: 45%;
+	border-radius: 500px;
 }
 
 .home {
