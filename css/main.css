@@ -637,7 +637,7 @@ margin-top:50px;
 	width: 200px;
 	height: 200px;
 	top: 500px;
-	left: 45%;
+	left: 43%;
 	border-radius: 500px;
 }
 
@@ -648,4 +648,11 @@ margin-top:50px;
 	margin-left: 40px;
 	letter-spacing: 3px;
 	text-transform: uppercase;
+}
+
+.skills-text {
+	font-size: 16px;
+	font-weight: none;
+	display:table;
+	margin:0 auto;
 }
